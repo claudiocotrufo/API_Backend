@@ -1,0 +1,17 @@
+C:\Users\CCotrufo\source\repos\Notification_API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\CCotrufo\source\repos\Notification_API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\CCotrufo\source\repos\Notification_API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\CCotrufo\source\repos\Notification_API\bin\Debug\netcoreapp2.2\Notification_API.deps.json
+C:\Users\CCotrufo\source\repos\Notification_API\bin\Debug\netcoreapp2.2\Notification_API.runtimeconfig.json
+C:\Users\CCotrufo\source\repos\Notification_API\bin\Debug\netcoreapp2.2\Notification_API.runtimeconfig.dev.json
+C:\Users\CCotrufo\source\repos\Notification_API\bin\Debug\netcoreapp2.2\Notification_API.dll
+C:\Users\CCotrufo\source\repos\Notification_API\obj\Debug\netcoreapp2.2\Notification_API.RazorAssemblyInfo.cache
+C:\Users\CCotrufo\source\repos\Notification_API\obj\Debug\netcoreapp2.2\Notification_API.RazorAssemblyInfo.cs
+C:\Users\CCotrufo\source\repos\Notification_API\obj\Debug\netcoreapp2.2\Notification_API.AssemblyInfoInputs.cache
+C:\Users\CCotrufo\source\repos\Notification_API\obj\Debug\netcoreapp2.2\Notification_API.AssemblyInfo.cs
+C:\Users\CCotrufo\source\repos\Notification_API\obj\Debug\netcoreapp2.2\Notification_API.RazorTargetAssemblyInfo.cache
+C:\Users\CCotrufo\source\repos\Notification_API\bin\Debug\netcoreapp2.2\Notification_API.pdb
+C:\Users\CCotrufo\source\repos\Notification_API\obj\Debug\netcoreapp2.2\Notification_API.dll
+C:\Users\CCotrufo\source\repos\Notification_API\obj\Debug\netcoreapp2.2\Notification_API.pdb
+C:\Users\CCotrufo\source\repos\Notification_API\bin\Debug\netcoreapp2.2\web.config
+C:\Users\CCotrufo\source\repos\Notification_API\obj\Debug\netcoreapp2.2\Notification_API.csprojAssemblyReference.cache
